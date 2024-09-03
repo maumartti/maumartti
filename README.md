@@ -14,7 +14,7 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
+<p align="left"> <img src="https://img.icons8.com/?size=44&id=HF4xGsjDERHf&format=png&color=000000" /><img src="https://img.icons8.com/?size=45&id=dzfo6UeXW9h7&format=png&color=000000"/><img src="https://img.icons8.com/?size=40&id=9yPfdIAPFYys&format=png&color=000000"/><img src="https://img.icons8.com/?size=45&id=123603&format=png&color=000000"/><img src="https://img.icons8.com/?size=50&id=XNQU0Xcm2I9s&format=png&color=000000"/><img src="https://img.icons8.com/?size=44&id=rgPSE6nAB766&format=png&color=000000" /><img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" /><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
 
 <br>
 
