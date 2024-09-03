@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Mauricio Martínez </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/maumartti-30302f?style=flat&logo=linkedin)]([https://www.linkedin.com/in/tanyagupta0201](https://www.linkedin.com/in/mauricio-alejandro-martinez-865322198/))
+[![linkedin badge](https://img.shields.io/badge/maumartti-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mauricio-alejandro-martinez-865322198/)
 [![Gmail Badge](https://img.shields.io/badge/maumartti@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:maumartti@gmail.com)
 
 I'm a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
