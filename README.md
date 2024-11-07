@@ -9,7 +9,7 @@ I'm a passionate programmer who loves to code. I am creatively curious and a sel
 I’m a passionate, proactive full-stack developer who loves the thrill of bringing projects to life and driving them to success. Adaptable to both front-end and back-end work, I have a solid foundation in PHP/Laravel and Vue, along with experience in Node.js, and I’m currently exploring Python to expand my skill set.
 💻 Motivated to contribute to open-source projects and connect with other developers to learn and grow together.
 ⚡ Fun fact: Coding feels like magic, creating something out of nothing, line by line.
-Show some ❤ by starring my repositories. 
+Show some ❤ by starring my repositories.<br>
 A little support can make someone’s day! 😄
 
 <br>
