@@ -6,9 +6,9 @@
 I'm a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-I’m a passionate, proactive full-stack developer who loves the thrill of bringing projects to life and driving them to success. Adaptable to both front-end and back-end work, I have a solid foundation in PHP/Laravel and Vue, along with experience in Node.js, and I’m currently exploring Python to expand my skill set.
-💻 Motivated to contribute to open-source projects and connect with other developers to learn and grow together.
-⚡ Fun fact: Coding feels like magic, creating something out of nothing, line by line.
+I’m a passionate, proactive full-stack developer who loves the thrill of bringing projects to life and driving them to success. Adaptable to both front-end and back-end work, I have a solid foundation in PHP/Laravel and Vue, along with experience in Node.js, and I’m currently exploring Python to expand my skill set.<br>
+💻 Motivated to contribute to open-source projects and connect with other developers to learn and grow together.<br>
+⚡ Fun fact: Coding feels like magic, creating something out of nothing, line by line.<br>
 Show some ❤ by starring my repositories.<br>
 A little support can make someone’s day! 😄
 
