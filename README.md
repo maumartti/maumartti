@@ -8,7 +8,7 @@ I'm a passionate programmer who loves to code. I am creatively curious and a sel
 
 Currently <a  href="https://github.com/maumartti/"><b>living in New Zealand and actively seeking job opportunities under my Working Holiday visa</b></a>. Coding is not only my career but also my passion—I love bringing ideas to life, line by line. I'm creatively curious and a self-learner, always exploring new technologies and sharpening my skills.
 <br> <br>
-I’m a proactive full-stack developer who thrives on the excitement of turning projects into successes. With a strong foundation in PHP/Laravel and Vue, along with experience in Node.js, I’m now diving into Python to expand my skill set. Adaptable to both front-end and back-end roles, I’m motivated to contribute to open-source projects and connect with other developers to keep learning and growing together.
+I’m a dedicated full-stack developer with over 5 years of experience, excited by the process of bringing projects to life and seeing them succeed. My expertise lies in PHP/Laravel and Vue, and I have solid experience with Node.js. Currently, I’m expanding my skills by learning Python, as I believe in continuous growth and adaptation.
 <br> <br>
 💻 Fun fact: Coding feels like magic—creating something out of nothing.<br>
 Show some ❤ by starring my repositories—a little support can make someone’s day! 😄<br>
