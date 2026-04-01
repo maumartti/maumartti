@@ -6,8 +6,6 @@
 I'm a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-Currently <a  href="https://github.com/maumartti/"><b>living in New Zealand and actively seeking job opportunities under my Working Holiday visa</b></a>. Coding is not only my career but also my passion—I love bringing ideas to life, line by line. I'm creatively curious and a self-learner, always exploring new technologies and sharpening my skills.
-<br> <br>
 I’m a dedicated full-stack developer with over 5 years of experience, excited by the process of bringing projects to life and seeing them succeed. My expertise lies in PHP/Laravel and Vue, and I have solid experience with Node.js. Currently, I’m expanding my skills by learning Python, as I believe in continuous growth and adaptation.
 <br> <br>
 💻 Fun fact: Coding feels like magic—creating something out of nothing.<br>
